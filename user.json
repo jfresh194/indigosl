@@ -10,6 +10,8 @@
   "facebook": "https://www.facebook.com/",
   "instagram": "share this",
   "whatsapp": "share this",
-  "downloadDescription": "description"
+  "downloadDescription": "description",
+  "externalapplink": "external",
+  "externalapplinktext": "external text"
   }
 ]
