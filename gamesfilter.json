@@ -1,39 +1,47 @@
 [
     {
-    "title": "Football"
+    "title": "Football",
+        "value": "Football"
     },
 
 
     
       {
-    "title": "Basketball"
+    "title": "Basketball",
+          "value": "Basketball"
     },
 
     
       {
-    "title": "Tennis"
+    "title": "Tennis",
+         "value": "Tennis"
     }
      ,
       {
-    "title": "AmericanFootball"
+    "title": "AmericanFootball",
+          "value": "AmericanFootball"
     }
     ,
       {
-    "title": "Golf"
+    "title": "Golf",
+          "value": "Golf"
     }
     ,
       {
-    "title": "Ice Hockey"
+    "title": "Ice Hockey",
+          "value": "Ice Hockey"
     }
    
    
     ,
       {
-    "title": "Serie A"
+    "title": "Serie A",
+          "value": "Serie A"
     }
     ,
       {
-    "title": "Ligue 1"
+    "title": "Ligue 1",
+          "value": "Ligue 1"
 
     }
   ]
