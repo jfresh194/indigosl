@@ -12,6 +12,7 @@
   "whatsapp": "share this",
   "downloadDescription": "Download new version",
   "externalapplink": "com.vdp.player",
+  "onchippress": "Server",
   "externalapplinktext": "Install video player for faster playback"
   }
 ]
