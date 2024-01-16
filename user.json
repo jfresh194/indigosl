@@ -13,6 +13,7 @@
   "downloadDescription": "Download new version",
   "externalapplink": "com.vdp.player",
   "onchippress": "Server",
+  "sharelink": "https://rb.gy/1yef2g",
   "externalapplinktext": "Install video player for faster playback"
   }
 ]
