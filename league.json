@@ -2,7 +2,7 @@
     {
     "title": "AFCON",
     "imageurl": "https://cdn.livetv747.me/img/tables/311.gif",
-    "value": "AFCON"
+    "value": "Africa"
     },
 
 
@@ -17,13 +17,13 @@
       {
     "title": "Premier League",
     "imageurl": "https://b.fssta.com/uploads/application/soccer/competition-logos/EnglishPremierLeague.png",
-    "value": "England"
+    "value": "Premier League"
     }
      ,
       {
-    "title": "LaLiga",
+    "title": "La Liga",
     "imageurl": "https://brandlogos.net/wp-content/uploads/2023/10/la_liga-logo_brandlogos.net_im3jl.png",
-    "value": "LaLiga"
+    "value": "La Liga"
     }
     ,
       {
