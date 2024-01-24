@@ -2715,14 +2715,14 @@
     },
     {
         "links": "/enx/eventinfo/185864734__/",
-        "golink": "Tanzania TZA - DR Congo COD",
+        "golink": "Tanzania - DR Congo",
         "golink-href": "https://livetv752.me/enx/eventinfo/185864734__/",
-        "hometeam": "Tanzania TZA",
+        "hometeam": "Tanzania",
         "homeimage": "//cdn.livetv752.me/img/teams/fullsize/ods/flag201.gif",
-        "awayteam": "DR Congo COD",
+        "awayteam": "DR Congo",
         "awayimage": "//cdn.livetv752.me/img/teams/fullsize/ods/flag39.gif",
-        "leagueDateTime": "Africa Cup of Nations.  24 January 2024 at 21:00.",
-        "league": "Africa Cup of Nations.",
+        "leagueDateTime": "Africa. Cup of Nations.  24 January 2024 at 21:00.",
+        "league": "Africa. Cup of Nations.",
         "sporttype": "Football"
     },
     {
@@ -2733,8 +2733,8 @@
         "homeimage": "//cdn.livetv752.me/img/teams/fullsize/ods/flag217.gif",
         "awayteam": "Morocco MAR",
         "awayimage": "//cdn.livetv752.me/img/teams/fullsize/ods/flag122.gif",
-        "leagueDateTime": "Africa Cup of Nations.  24 January 2024 at 21:00.",
-        "league": "Africa Cup of Nations.",
+        "leagueDateTime": "Africa. Cup of Nations.  24 January 2024 at 21:00.",
+        "league": "Africa. Cup of Nations.",
         "sporttype": "Football"
     },
     {
