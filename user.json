@@ -14,6 +14,7 @@
   "externalapplink": "com.vdp.player",
   "onchippress": "Server",
   "sharelink": "https://football94.web.app/",
+  "linkdetails": "Problems with watching live streams?",
   "externalapplinktext": "Install video player for faster playback"
   }
 ]
