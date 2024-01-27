@@ -1,48 +1,15 @@
 [
     {
-    "title": "Football",
-        "value": "Football"
+    "title": "Ads1",
+    "imageurl": "https://cms-ui-data-prd.sahara.editec-online.com/images/SL/banners/desktop/en/1235bc43-14bf-44b8-9171-ff49ac462b82.jpg",
+    "link": "https://google.com"
     },
 
+     {
+    "title": "Ads2",
+    "imageurl": "https://www.premierbet.co.mz/content/premierbet.co.mz-23sf34g/uploads/2024/01/3594_virtuals_welcome_bonus_T02_1300x250-MZ_EN.jpg",
+    "link": "https://google.com"
+    }
 
-    
-      {
-    "title": "Basketball",
-          "value": "Basketball"
-    },
-
-    
-      {
-    "title": "Tennis",
-         "value": "Tennis"
-    }
-     ,
-      {
-    "title": "AmericanFootball",
-          "value": "AmericanFootball"
-    }
-    ,
-      {
-    "title": "Golf",
-          "value": "Golf"
-    }
-    ,
-      {
-    "title": "Ice Hockey",
-          "value": "Ice Hockey"
-    }
-   
-   
-    ,
-      {
-    "title": "Serie A",
-          "value": "Serie A"
-    }
-    ,
-      {
-    "title": "Ligue 1",
-          "value": "Ligue 1"
-
-    }
   ]
   
