@@ -15,7 +15,7 @@
   "onchippress": "Server",
   "sharelink": "https://football94.web.app/",
   "linkdetails": "Problems with watching live streams?",
-  "adsbanner": "https://www.premierbet.co.mz/content/premierbet.co.mz-23sf34g/uploads/2024/01/3594_virtuals_welcome_bonus_T02_1300x250-MZ_EN.jpg",
+  "adsbanner": ["https://www.premierbet.co.mz/content/premierbet.co.mz-23sf34g/uploads/2024/01/3594_virtuals_welcome_bonus_T02_1300x250-MZ_EN.jpg", "https://cms-ui-data-prd.sahara.editec-online.com/images/SL/banners/desktop/en/1235bc43-14bf-44b8-9171-ff49ac462b82.jpg"]
   "externalapplinktext": "Install video player for faster playback"
   }
 ]
