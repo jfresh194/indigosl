@@ -1,17 +1,5 @@
 [
-    {
-        "links": "/enx/eventinfo/188278910__/",
-        "golink": "Mafra - Os Belenenses",
-        "golink-href": "https://livetv755.me/enx/eventinfo/188278910__/",
-        "hometeam": "Mafra",
-        "homeimage": "//cdn.livetv755.me/img/teams/fullsize/ods/21724.gif",
-        "awayteam": "Os Belenenses",
-        "awayimage": "//cdn.livetv755.me/img/teams/fullsize/ods/17949.gif",
-        "leagueDateTime": "Portugal Segunda Liga  2 February 2024 at 21:45",
-        "league": "Portugal Segunda Liga",
-        "sporttype": "Football"
-    },
-    {
+      {
         "links": "/enx/eventinfo/188270218__/",
         "golink": "Agropecuario - Patronato",
         "golink-href": "https://livetv755.me/enx/eventinfo/188270218__/",
@@ -19,8 +7,8 @@
         "homeimage": "//cdn.livetv755.me/img/teams/fullsize/ods/1789.gif",
         "awayteam": "Patronato",
         "awayimage": "//cdn.livetv755.me/img/teams/fullsize/ods/1118.gif",
-        "leagueDateTime": "Argentina Primera Nacional  2 February 2024 at 21:10",
-        "league": "Argentina Primera Nacional",
+        "leagueDateTime": "Argentina. Primera Nacional.  2 February 2024 at 21:10.",
+        "league": "Argentina. Primera Nacional.",
         "sporttype": "Football"
     },
     {
@@ -31,8 +19,8 @@
         "homeimage": "//cdn.livetv755.me/img/teams/fullsize/ods/955.gif",
         "awayteam": "College",
         "awayimage": "//cdn.livetv755.me/img/teams/fullsize/ods/1783.gif",
-        "leagueDateTime": "Gibraltar Premier Division  2 February 2024 at 21:00",
-        "league": "Gibraltar Premier Division",
+        "leagueDateTime": "Gibraltar. Premier Division.  2 February 2024 at 21:00.",
+        "league": "Gibraltar. Premier Division.",
         "sporttype": "Football"
     },
     {
@@ -43,8 +31,8 @@
         "homeimage": "//cdn.livetv755.me/img/teams/fullsize/ods/2635.gif",
         "awayteam": "Cajamarca",
         "awayimage": "//cdn.livetv755.me/img/teams/fullsize/ods/1444.gif",
-        "leagueDateTime": "Peru Liga 1  2 February 2024 at 21:00",
-        "league": "Peru Liga 1",
+        "leagueDateTime": "Peru. Liga 1.  2 February 2024 at 21:00.",
+        "league": "Peru. Liga 1.",
         "sporttype": "Football"
     },
     {
@@ -55,8 +43,8 @@
         "homeimage": "//cdn.livetv755.me/img/teams/fullsize/ods/253.gif",
         "awayteam": "Deportivo La Guaira",
         "awayimage": "//cdn.livetv755.me/img/teams/fullsize/ods/1502.gif",
-        "leagueDateTime": "Venezuela Primera Division  2 February 2024 at 21:00",
-        "league": "Venezuela Primera Division",
+        "leagueDateTime": "Venezuela. Primera Division.  2 February 2024 at 21:00.",
+        "league": "Venezuela. Primera Division.",
         "sporttype": "Football"
     },
     {
@@ -67,8 +55,8 @@
         "homeimage": "//cdn.livetv755.me/img/teams/fullsize/ods/flag39.gif",
         "awayteam": "Guinea GIN",
         "awayimage": "//cdn.livetv755.me/img/teams/fullsize/ods/flag74.gif",
-        "leagueDateTime": "Africa Cup of Nations  2 February 2024 at 21:00",
-        "league": "Africa Cup of Nations",
+        "leagueDateTime": "Africa Cup of Nations.  2 February 2024 at 21:00.",
+        "league": "Africa Cup of Nations.",
         "sporttype": "Football"
     },
     {
@@ -79,8 +67,8 @@
         "homeimage": "//cdn.livetv755.me/img/teams/fullsize/ods/9206.gif",
         "awayteam": "Airdrieonians",
         "awayimage": "//cdn.livetv755.me/img/teams/fullsize/ods/9211.gif",
-        "leagueDateTime": "Scotland Challenge Cup  2 February 2024 at 20:40",
-        "league": "Scotland Challenge Cup",
+        "leagueDateTime": "Scotland. Challenge Cup.  2 February 2024 at 20:40.",
+        "league": "Scotland. Challenge Cup.",
         "sporttype": "Football"
     },
     {
@@ -91,8 +79,8 @@
         "homeimage": "//cdn.livetv755.me/img/teams/fullsize/ods/4555.gif",
         "awayteam": "Austria Vienna",
         "awayimage": "//cdn.livetv755.me/img/teams/fullsize/ods/4142.gif",
-        "leagueDateTime": "Austria Cup  2 February 2024 at 20:30",
-        "league": "Austria Cup",
+        "leagueDateTime": "Austria. Cup.  2 February 2024 at 20:30.",
+        "league": "Austria. Cup.",
         "sporttype": "Football"
     },
     {
@@ -103,8 +91,8 @@
         "homeimage": "//cdn.livetv755.me/img/teams/fullsize/ods/8756.gif",
         "awayteam": "Bari",
         "awayimage": "//cdn.livetv755.me/img/teams/fullsize/ods/4920.gif",
-        "leagueDateTime": "Italy Serie B  2 February 2024 at 20:30",
-        "league": "Italy Serie B",
+        "leagueDateTime": "Italy. Serie B.  2 February 2024 at 20:30.",
+        "league": "Italy. Serie B.",
         "sporttype": "Football"
     },
     {
@@ -115,8 +103,8 @@
         "homeimage": "//cdn.livetv755.me/img/teams/fullsize/ods/3876.gif",
         "awayteam": "Burgos",
         "awayimage": "//cdn.livetv755.me/img/teams/fullsize/ods/4467.gif",
-        "leagueDateTime": "Spain Segunda Division  2 February 2024 at 20:30",
-        "league": "Spain Segunda Division",
+        "leagueDateTime": "Spain. Segunda Division.  2 February 2024 at 20:30.",
+        "league": "Spain. Segunda Division.",
         "sporttype": "Football"
     },
     {
@@ -127,8 +115,8 @@
         "homeimage": "//cdn.livetv755.me/img/teams/fullsize/ods/6593.gif",
         "awayteam": "Telstar",
         "awayimage": "//cdn.livetv755.me/img/teams/fullsize/ods/7141.gif",
-        "leagueDateTime": "Netherlands Eerste Divisie  2 February 2024 at 20:00",
-        "league": "Netherlands Eerste Divisie",
+        "leagueDateTime": "Netherlands. Eerste Divisie.  2 February 2024 at 20:00.",
+        "league": "Netherlands. Eerste Divisie.",
         "sporttype": "Football"
     },
     {
@@ -139,8 +127,8 @@
         "homeimage": "//cdn.livetv755.me/img/teams/fullsize/ods/7143.gif",
         "awayteam": "Groningen",
         "awayimage": "//cdn.livetv755.me/img/teams/fullsize/ods/478.gif",
-        "leagueDateTime": "Netherlands Eerste Divisie  2 February 2024 at 20:00",
-        "league": "Netherlands Eerste Divisie",
+        "leagueDateTime": "Netherlands. Eerste Divisie.  2 February 2024 at 20:00.",
+        "league": "Netherlands. Eerste Divisie.",
         "sporttype": "Football"
     },
     {
@@ -151,8 +139,8 @@
         "homeimage": "//cdn.livetv755.me/img/teams/fullsize/ods/6941.gif",
         "awayteam": "Helmond Sport",
         "awayimage": "//cdn.livetv755.me/img/teams/fullsize/ods/7140.gif",
-        "leagueDateTime": "Netherlands Eerste Divisie  2 February 2024 at 20:00",
-        "league": "Netherlands Eerste Divisie",
+        "leagueDateTime": "Netherlands. Eerste Divisie.  2 February 2024 at 20:00.",
+        "league": "Netherlands. Eerste Divisie.",
         "sporttype": "Football"
     },
     {
@@ -163,8 +151,8 @@
         "homeimage": "//cdn.livetv755.me/img/teams/fullsize/ods/983.gif",
         "awayteam": "Den Haag",
         "awayimage": "//cdn.livetv755.me/img/teams/fullsize/ods/485.gif",
-        "leagueDateTime": "Netherlands Eerste Divisie  2 February 2024 at 20:00",
-        "league": "Netherlands Eerste Divisie",
+        "leagueDateTime": "Netherlands. Eerste Divisie.  2 February 2024 at 20:00.",
+        "league": "Netherlands. Eerste Divisie.",
         "sporttype": "Football"
     },
     {
@@ -175,8 +163,8 @@
         "homeimage": "//cdn.livetv755.me/img/teams/fullsize/ods/480.gif",
         "awayteam": "De Graafschap",
         "awayimage": "//cdn.livetv755.me/img/teams/fullsize/ods/530.gif",
-        "leagueDateTime": "Netherlands Eerste Divisie  2 February 2024 at 20:00",
-        "league": "Netherlands Eerste Divisie",
+        "leagueDateTime": "Netherlands. Eerste Divisie.  2 February 2024 at 20:00.",
+        "league": "Netherlands. Eerste Divisie.",
         "sporttype": "Football"
     },
     {
@@ -187,8 +175,8 @@
         "homeimage": "//cdn.livetv755.me/img/teams/fullsize/ods/688.gif",
         "awayteam": "Eindhoven",
         "awayimage": "//cdn.livetv755.me/img/teams/fullsize/ods/1333.gif",
-        "leagueDateTime": "Netherlands Eerste Divisie  2 February 2024 at 20:00",
-        "league": "Netherlands Eerste Divisie",
+        "leagueDateTime": "Netherlands. Eerste Divisie.  2 February 2024 at 20:00.",
+        "league": "Netherlands. Eerste Divisie.",
         "sporttype": "Football"
     },
     {
@@ -199,8 +187,8 @@
         "homeimage": "//cdn.livetv755.me/img/teams/fullsize/ods/483.gif",
         "awayteam": "Cambuur",
         "awayimage": "//cdn.livetv755.me/img/teams/fullsize/ods/6580.gif",
-        "leagueDateTime": "Netherlands Eerste Divisie  2 February 2024 at 20:00",
-        "league": "Netherlands Eerste Divisie",
+        "leagueDateTime": "Netherlands. Eerste Divisie.  2 February 2024 at 20:00.",
+        "league": "Netherlands. Eerste Divisie.",
         "sporttype": "Football"
     },
     {
@@ -211,8 +199,8 @@
         "homeimage": "//cdn.livetv755.me/img/teams/fullsize/ods/519.gif",
         "awayteam": "Jong PSV",
         "awayimage": "//cdn.livetv755.me/img/teams/fullsize/ods/5375.gif",
-        "leagueDateTime": "Netherlands Eerste Divisie  2 February 2024 at 20:00",
-        "league": "Netherlands Eerste Divisie",
+        "leagueDateTime": "Netherlands. Eerste Divisie.  2 February 2024 at 20:00.",
+        "league": "Netherlands. Eerste Divisie.",
         "sporttype": "Football"
     },
     {
@@ -223,8 +211,8 @@
         "homeimage": "//cdn.livetv755.me/img/teams/fullsize/ods/4012.gif",
         "awayteam": "Ujpest",
         "awayimage": "//cdn.livetv755.me/img/teams/fullsize/ods/22921.gif",
-        "leagueDateTime": "Hungary NB I  2 February 2024 at 20:00",
-        "league": "Hungary NB I",
+        "leagueDateTime": "Hungary. NB I.  2 February 2024 at 20:00.",
+        "league": "Hungary. NB I.",
         "sporttype": "Football"
     },
     {
@@ -235,8 +223,8 @@
         "homeimage": "//cdn.livetv755.me/img/teams/fullsize/ods/23765.gif",
         "awayteam": "Santa Clara",
         "awayimage": "//cdn.livetv755.me/img/teams/fullsize/ods/3779.gif",
-        "leagueDateTime": "Portugal Segunda Liga  2 February 2024 at 19:45",
-        "league": "Portugal Segunda Liga",
+        "leagueDateTime": "Portugal. Segunda Liga.  2 February 2024 at 19:45.",
+        "league": "Portugal. Segunda Liga.",
         "sporttype": "Football"
     },
     {
@@ -247,8 +235,20 @@
         "homeimage": "//cdn.livetv755.me/img/teams/fullsize/ods/5296.gif",
         "awayteam": "Saarbruecken",
         "awayimage": "//cdn.livetv755.me/img/teams/fullsize/ods/3972.gif",
-        "leagueDateTime": "Germany 3 Bundesliga  2 February 2024 at 19:00",
-        "league": "Germany 3 Bundesliga",
+        "leagueDateTime": "Germany. 3 Bundesliga.  2 February 2024 at 19:00.",
+        "league": "Germany. 3 Bundesliga.",
+        "sporttype": "Football"
+    },
+    {
+        "links": "/enx/eventinfo/191645057_usa_u17_w_panama_u17_w/",
+        "golink": "USA U17 (W) - Panama U17 (W)",
+        "golink-href": "https://livetv755.me/enx/eventinfo/191645057_usa_u17_w_panama_u17_w/",
+        "hometeam": "",
+        "homeimage": "",
+        "awayteam": "",
+        "awayimage": "",
+        "leagueDateTime": "Women. CONCACAF U-17 Championship.  2 February 2024 at 19:00.",
+        "league": "Women. CONCACAF U-17 Championship.",
         "sporttype": "Football"
     },
     {
@@ -259,8 +259,8 @@
         "homeimage": "//cdn.livetv755.me/img/teams/fullsize/ods/27484.gif",
         "awayteam": "Dinamo Bucharest",
         "awayimage": "//cdn.livetv755.me/img/teams/fullsize/ods/415.gif",
-        "leagueDateTime": "Romania Liga 1  2 February 2024 at 19:00",
-        "league": "Romania Liga 1",
+        "leagueDateTime": "Romania. Liga 1.  2 February 2024 at 19:00.",
+        "league": "Romania. Liga 1.",
         "sporttype": "Football"
     },
     {
@@ -271,8 +271,8 @@
         "homeimage": "//cdn.livetv755.me/img/teams/fullsize/ods/3706.gif",
         "awayteam": "Wehen",
         "awayimage": "//cdn.livetv755.me/img/teams/fullsize/ods/3719.gif",
-        "leagueDateTime": "Germany 2 Bundesliga  2 February 2024 at 18:30",
-        "league": "Germany 2 Bundesliga",
+        "leagueDateTime": "Germany. 2 Bundesliga.  2 February 2024 at 18:30.",
+        "league": "Germany. 2 Bundesliga.",
         "sporttype": "Football"
     },
     {
@@ -283,8 +283,8 @@
         "homeimage": "//cdn.livetv755.me/img/teams/fullsize/ods/4402.gif",
         "awayteam": "Holstein Kiel",
         "awayimage": "//cdn.livetv755.me/img/teams/fullsize/ods/3700.gif",
-        "leagueDateTime": "Germany 2 Bundesliga  2 February 2024 at 18:30",
-        "league": "Germany 2 Bundesliga",
+        "leagueDateTime": "Germany. 2 Bundesliga.  2 February 2024 at 18:30.",
+        "league": "Germany. 2 Bundesliga.",
         "sporttype": "Football"
     },
     {
@@ -295,8 +295,20 @@
         "homeimage": "//cdn.livetv755.me/img/teams/fullsize/ods/4857.gif",
         "awayteam": "Hoffenheim (W)",
         "awayimage": "//cdn.livetv755.me/img/teams/fullsize/ods/4832.gif",
-        "leagueDateTime": "Germany Women Bundesliga  2 February 2024 at 18:30",
-        "league": "Germany Women Bundesliga",
+        "leagueDateTime": "Germany. Women. Bundesliga.  2 February 2024 at 18:30.",
+        "league": "Germany. Women. Bundesliga.",
+        "sporttype": "Football"
+    },
+    {
+        "links": "/enx/eventinfo/191379507_simulcast/",
+        "golink": "Simulcast",
+        "golink-href": "https://livetv755.me/enx/eventinfo/191379507_simulcast/",
+        "hometeam": "",
+        "homeimage": "",
+        "awayteam": "",
+        "awayimage": "",
+        "leagueDateTime": "Germany. 2 Bundesliga.  2 February 2024 at 18:30.",
+        "league": "Germany. 2 Bundesliga.",
         "sporttype": "Football"
     },
     {
@@ -307,8 +319,8 @@
         "homeimage": "//cdn.livetv755.me/img/teams/fullsize/ods/flag144.gif",
         "awayteam": "Angola AGO",
         "awayimage": "//cdn.livetv755.me/img/teams/fullsize/ods/flag2.gif",
-        "leagueDateTime": "Africa Cup of Nations  2 February 2024 at 18:00",
-        "league": "Africa Cup of Nations",
+        "leagueDateTime": "Africa Cup of Nations.  2 February 2024 at 18:00.",
+        "league": "Africa Cup of Nations.",
         "sporttype": "Football"
     },
     {
@@ -319,8 +331,8 @@
         "homeimage": "//cdn.livetv755.me/img/teams/fullsize/ods/968.gif",
         "awayteam": "RB Salzburg",
         "awayimage": "//cdn.livetv755.me/img/teams/fullsize/ods/77.gif",
-        "leagueDateTime": "Austria Cup  2 February 2024 at 18:00",
-        "league": "Austria Cup",
+        "leagueDateTime": "Austria. Cup.  2 February 2024 at 18:00.",
+        "league": "Austria. Cup.",
         "sporttype": "Football"
     },
     {
@@ -331,8 +343,8 @@
         "homeimage": "//cdn.livetv755.me/img/teams/fullsize/ods/8469.gif",
         "awayteam": "Galatasaray",
         "awayimage": "//cdn.livetv755.me/img/teams/fullsize/ods/20957.gif",
-        "leagueDateTime": "Turkey Super League  2 February 2024 at 18:00",
-        "league": "Turkey Super League",
+        "leagueDateTime": "Turkey. Super League.  2 February 2024 at 18:00.",
+        "league": "Turkey. Super League.",
         "sporttype": "Football"
     },
     {
@@ -343,8 +355,8 @@
         "homeimage": "//cdn.livetv755.me/img/teams/fullsize/ods/6187.gif",
         "awayteam": "Bandirmaspor",
         "awayimage": "//cdn.livetv755.me/img/teams/fullsize/ods/19254.gif",
-        "leagueDateTime": "Turkey 1 Lig  2 February 2024 at 18:00",
-        "league": "Turkey 1 Lig",
+        "leagueDateTime": "Turkey. 1 Lig.  2 February 2024 at 18:00.",
+        "league": "Turkey. 1 Lig.",
         "sporttype": "Football"
     },
     {
@@ -355,8 +367,8 @@
         "homeimage": "//cdn.livetv755.me/img/teams/fullsize/ods/flag12.gif",
         "awayteam": "South Korea KOR",
         "awayimage": "//cdn.livetv755.me/img/teams/fullsize/ods/flag109.gif",
-        "leagueDateTime": "Asian Cup  2 February 2024 at 16:30",
-        "league": "Asian Cup",
+        "leagueDateTime": "Asian Cup.  2 February 2024 at 16:30.",
+        "league": "Asian Cup.",
         "sporttype": "Football"
     },
     {
@@ -367,8 +379,8 @@
         "homeimage": "//cdn.livetv755.me/img/teams/fullsize/ods/1157.gif",
         "awayteam": "Politehnica Iasi",
         "awayimage": "//cdn.livetv755.me/img/teams/fullsize/ods/1179.gif",
-        "leagueDateTime": "Romania Liga 1  2 February 2024 at 16:00",
-        "league": "Romania Liga 1",
+        "leagueDateTime": "Romania. Liga 1.  2 February 2024 at 16:00.",
+        "league": "Romania. Liga 1.",
         "sporttype": "Football"
     },
     {
@@ -379,8 +391,8 @@
         "homeimage": "//cdn.livetv755.me/img/teams/fullsize/ods/5333.gif",
         "awayteam": "Fatih Karagumruk",
         "awayimage": "//cdn.livetv755.me/img/teams/fullsize/ods/1414.gif",
-        "leagueDateTime": "Turkey Super League  2 February 2024 at 15:00",
-        "league": "Turkey Super League",
+        "leagueDateTime": "Turkey. Super League.  2 February 2024 at 15:00.",
+        "league": "Turkey. Super League.",
         "sporttype": "Football"
     },
     {
@@ -391,8 +403,20 @@
         "homeimage": "//cdn.livetv755.me/img/teams/fullsize/ods/1507.gif",
         "awayteam": "Rostov",
         "awayimage": "//cdn.livetv755.me/img/teams/fullsize/ods/115.gif",
-        "leagueDateTime": "Friendly Match  2 February 2024 at 15:00",
-        "league": "Friendly Match",
+        "leagueDateTime": "Friendly Match.  2 February 2024 at 15:00.",
+        "league": "Friendly Match.",
+        "sporttype": "Football"
+    },
+    {
+        "links": "/enx/eventinfo/191648749_bangladesh_u19_w_nepal_u19_w/",
+        "golink": "Bangladesh U19 (W) - Nepal U19 (W)",
+        "golink-href": "https://livetv755.me/enx/eventinfo/191648749_bangladesh_u19_w_nepal_u19_w/",
+        "hometeam": "",
+        "homeimage": "",
+        "awayteam": "",
+        "awayimage": "",
+        "leagueDateTime": "Women. Friendly Match.  2 February 2024 at 14:00.",
+        "league": "Women. Friendly Match.",
         "sporttype": "Football"
     },
     {
@@ -403,8 +427,8 @@
         "homeimage": "//cdn.livetv755.me/img/teams/fullsize/ods/3965.gif",
         "awayteam": "KuPS",
         "awayimage": "//cdn.livetv755.me/img/teams/fullsize/ods/595.gif",
-        "leagueDateTime": "Finland League Cup  2 February 2024 at 14:00",
-        "league": "Finland League Cup",
+        "leagueDateTime": "Finland. League Cup.  2 February 2024 at 14:00.",
+        "league": "Finland. League Cup.",
         "sporttype": "Football"
     },
     {
@@ -415,8 +439,8 @@
         "homeimage": "//cdn.livetv755.me/img/teams/fullsize/ods/flag191.gif",
         "awayteam": "Jordan JOR",
         "awayimage": "//cdn.livetv755.me/img/teams/fullsize/ods/flag101.gif",
-        "leagueDateTime": "Asian Cup  2 February 2024 at 12:30",
-        "league": "Asian Cup",
+        "leagueDateTime": "Asian Cup.  2 February 2024 at 12:30.",
+        "league": "Asian Cup.",
         "sporttype": "Football"
     },
     {
@@ -427,8 +451,20 @@
         "homeimage": "//cdn.livetv755.me/img/teams/fullsize/ods/648.gif",
         "awayteam": "Melbourne City",
         "awayimage": "//cdn.livetv755.me/img/teams/fullsize/ods/1625.gif",
-        "leagueDateTime": "Australia A-League  2 February 2024 at 11:45",
-        "league": "Australia A-League",
+        "leagueDateTime": "Australia. A-League.  2 February 2024 at 11:45.",
+        "league": "Australia. A-League.",
+        "sporttype": "Football"
+    },
+    {
+        "links": "/enx/eventinfo/191648748_india_u19_w_bhutan_u19_w/",
+        "golink": "India U19 (W) - Bhutan U19 (W)",
+        "golink-href": "https://livetv755.me/enx/eventinfo/191648748_india_u19_w_bhutan_u19_w/",
+        "hometeam": "",
+        "homeimage": "",
+        "awayteam": "",
+        "awayimage": "",
+        "leagueDateTime": "Women. Friendly Match.  2 February 2024 at 10:00.",
+        "league": "Women. Friendly Match.",
         "sporttype": "Football"
     },
     {
@@ -439,8 +475,8 @@
         "homeimage": "//cdn.livetv755.me/img/teams/fullsize/ods/11944.gif",
         "awayteam": "Abahani",
         "awayimage": "//cdn.livetv755.me/img/teams/fullsize/ods/11613.gif",
-        "leagueDateTime": "Bangladesh Premier League  2 February 2024 at 10:00",
-        "league": "Bangladesh Premier League",
+        "leagueDateTime": "Bangladesh. Premier League.  2 February 2024 at 10:00.",
+        "league": "Bangladesh. Premier League.",
         "sporttype": "Football"
     },
     {
@@ -451,8 +487,8 @@
         "homeimage": "//cdn.livetv755.me/img/teams/fullsize/ods/11865.gif",
         "awayteam": "Rahmatganj",
         "awayimage": "//cdn.livetv755.me/img/teams/fullsize/ods/11754.gif",
-        "leagueDateTime": "Bangladesh Premier League  2 February 2024 at 10:00",
-        "league": "Bangladesh Premier League",
+        "leagueDateTime": "Bangladesh. Premier League.  2 February 2024 at 10:00.",
+        "league": "Bangladesh. Premier League.",
         "sporttype": "Football"
     },
     {
@@ -463,8 +499,8 @@
         "homeimage": "//cdn.livetv755.me/img/teams/fullsize/ods/772.gif",
         "awayteam": "Wellington Phoenix",
         "awayimage": "//cdn.livetv755.me/img/teams/fullsize/ods/6522.gif",
-        "leagueDateTime": "Australia A-League  2 February 2024 at 9:45",
-        "league": "Australia A-League",
+        "leagueDateTime": "Australia. A-League.  2 February 2024 at 9:45.",
+        "league": "Australia. A-League.",
         "sporttype": "Football"
     },
     {
@@ -475,8 +511,8 @@
         "homeimage": "//cdn.livetv755.me/img/teams/fullsize/ods/27771.gif",
         "awayteam": "Gokulam Kerala",
         "awayimage": "//cdn.livetv755.me/img/teams/fullsize/ods/11190.gif",
-        "leagueDateTime": "India I-League  2 February 2024 at 9:30",
-        "league": "India I-League",
+        "leagueDateTime": "India. I-League.  2 February 2024 at 9:30.",
+        "league": "India. I-League.",
         "sporttype": "Football"
     },
     {
@@ -487,8 +523,8 @@
         "homeimage": "//cdn.livetv755.me/img/teams/fullsize/ods/6239.gif",
         "awayteam": "Puebla (W)",
         "awayimage": "//cdn.livetv755.me/img/teams/fullsize/ods/6245.gif",
-        "leagueDateTime": "Mexico Women Liga MX  2 February 2024 at 4:06",
-        "league": "Mexico Women Liga MX",
+        "leagueDateTime": "Mexico. Women. Liga MX.  2 February 2024 at 4:06.",
+        "league": "Mexico. Women. Liga MX.",
         "sporttype": "Football"
     },
     {
@@ -499,8 +535,32 @@
         "homeimage": "//cdn.livetv755.me/img/teams/fullsize/ods/6101.gif",
         "awayteam": "Leones Negros",
         "awayimage": "//cdn.livetv755.me/img/teams/fullsize/ods/6097.gif",
-        "leagueDateTime": "Mexico Liga de Expansion  2 February 2024 at 4:05",
-        "league": "Mexico Liga de Expansion",
+        "leagueDateTime": "Mexico. Liga de Expansion.  2 February 2024 at 4:05.",
+        "league": "Mexico. Liga de Expansion.",
+        "sporttype": "Football"
+    },
+    {
+        "links": "/enx/eventinfo/189690695_argentina_u23_uruguay_u23/",
+        "golink": "Argentina U23 - Uruguay U23",
+        "golink-href": "https://livetv755.me/enx/eventinfo/189690695_argentina_u23_uruguay_u23/",
+        "hometeam": "",
+        "homeimage": "",
+        "awayteam": "",
+        "awayimage": "",
+        "leagueDateTime": "Olympic Games.  3 February 2024 at 0:00.",
+        "league": "Olympic Games.",
+        "sporttype": "Football"
+    },
+    {
+        "links": "/enx/eventinfo/189690694_chile_u23_paraguay_u23/",
+        "golink": "Chile U23 - Paraguay U23",
+        "golink-href": "https://livetv755.me/enx/eventinfo/189690694_chile_u23_paraguay_u23/",
+        "hometeam": "",
+        "homeimage": "",
+        "awayteam": "",
+        "awayimage": "",
+        "leagueDateTime": "Olympic Games.  3 February 2024 at 0:00.",
+        "league": "Olympic Games.",
         "sporttype": "Football"
     },
     {
@@ -511,8 +571,8 @@
         "homeimage": "//cdn.livetv755.me/img/teams/fullsize/ods/456.gif",
         "awayteam": "Leeds Utd",
         "awayimage": "//cdn.livetv755.me/img/teams/fullsize/ods/8992.gif",
-        "leagueDateTime": "England Championship  2 February 2024 at 21:00",
-        "league": "England Championship",
+        "leagueDateTime": "England. Championship.  2 February 2024 at 21:00.",
+        "league": "England. Championship.",
         "sporttype": "Football"
     },
     {
@@ -523,8 +583,8 @@
         "homeimage": "//cdn.livetv755.me/img/teams/fullsize/ods/44.gif",
         "awayteam": "Mallorca",
         "awayimage": "//cdn.livetv755.me/img/teams/fullsize/ods/3768.gif",
-        "leagueDateTime": "Spain Primera Division  2 February 2024 at 21:00",
-        "league": "Spain Primera Division",
+        "leagueDateTime": "Spain. Primera Division.  2 February 2024 at 21:00.",
+        "league": "Spain. Primera Division.",
         "sporttype": "Football"
     },
     {
@@ -535,8 +595,8 @@
         "homeimage": "//cdn.livetv755.me/img/teams/fullsize/ods/26648.gif",
         "awayteam": "PSG",
         "awayimage": "//cdn.livetv755.me/img/teams/fullsize/ods/3758.gif",
-        "leagueDateTime": "France Ligue 1  2 February 2024 at 21:00",
-        "league": "France Ligue 1",
+        "leagueDateTime": "France. Ligue 1.  2 February 2024 at 21:00.",
+        "league": "France. Ligue 1.",
         "sporttype": "Football"
     },
     {
@@ -547,8 +607,8 @@
         "homeimage": "//cdn.livetv755.me/img/teams/fullsize/ods/3764.gif",
         "awayteam": "Fiorentina",
         "awayimage": "//cdn.livetv755.me/img/teams/fullsize/ods/21748.gif",
-        "leagueDateTime": "Italy Serie A  2 February 2024 at 20:45",
-        "league": "Italy Serie A",
+        "leagueDateTime": "Italy. Serie A.  2 February 2024 at 20:45.",
+        "league": "Italy. Serie A.",
         "sporttype": "Football"
     },
     {
@@ -559,8 +619,8 @@
         "homeimage": "//cdn.livetv755.me/img/teams/fullsize/ods/3698.gif",
         "awayteam": "Dortmund",
         "awayimage": "//cdn.livetv755.me/img/teams/fullsize/ods/22.gif",
-        "leagueDateTime": "Germany Bundesliga  2 February 2024 at 20:30",
-        "league": "Germany Bundesliga",
+        "leagueDateTime": "Germany. Bundesliga.  2 February 2024 at 20:30.",
+        "league": "Germany. Bundesliga.",
         "sporttype": "Football"
     },
     {
@@ -571,8 +631,8 @@
         "homeimage": "//cdn.livetv755.me/img/teams/fullsize/ods/7145.gif",
         "awayteam": "Excelsior",
         "awayimage": "//cdn.livetv755.me/img/teams/fullsize/ods/484.gif",
-        "leagueDateTime": "Netherlands Eredivisie  2 February 2024 at 20:00",
-        "league": "Netherlands Eredivisie",
+        "leagueDateTime": "Netherlands. Eredivisie.  2 February 2024 at 20:00.",
+        "league": "Netherlands. Eredivisie.",
         "sporttype": "Football"
     },
     {
@@ -583,8 +643,8 @@
         "homeimage": "//cdn.livetv755.me/img/teams/fullsize/ods/957.gif",
         "awayteam": "Varazdin",
         "awayimage": "//cdn.livetv755.me/img/teams/fullsize/ods/833.gif",
-        "leagueDateTime": "Croatia HNL  2 February 2024 at 17:00",
-        "league": "Croatia HNL",
+        "leagueDateTime": "Croatia. HNL.  2 February 2024 at 17:00.",
+        "league": "Croatia. HNL.",
         "sporttype": "Football"
     },
     {
@@ -595,8 +655,8 @@
         "homeimage": "//cdn.livetv755.me/img/teams/fullsize/ods/321.gif",
         "awayteam": "Sivasspor",
         "awayimage": "//cdn.livetv755.me/img/teams/fullsize/ods/562.gif",
-        "leagueDateTime": "Turkey Super League  2 February 2024 at 15:00",
-        "league": "Turkey Super League",
+        "leagueDateTime": "Turkey. Super League.  2 February 2024 at 15:00.",
+        "league": "Turkey. Super League.",
         "sporttype": "Football"
     }
 ]
