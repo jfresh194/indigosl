@@ -17,7 +17,7 @@
         "buttonBgColor": "#456743",
         "buttonTitleColor": "#fff743",
         "countryToShow": "EN",
-        "rewardDisplaytime": 10
+        "rewardDisplaytime": 5
       },
 
       {
@@ -30,7 +30,7 @@
         "buttonBgColor": "#456743",
         "buttonTitleColor": "#fff743",
         "countryToShow": "EN",
-        "rewardDisplaytime": 20
+        "rewardDisplaytime": 5
       },
 
       {
@@ -43,7 +43,7 @@
         "buttonBgColor": "#456743",
         "buttonTitleColor": "#fff743",
         "countryToShow": "EN",
-        "rewardDisplaytime": 10
+        "rewardDisplaytime": 5
       },
 
       {
@@ -56,7 +56,7 @@
         "buttonBgColor": "#456743",
         "buttonTitleColor": "#fff743",
         "countryToShow": "EN",
-        "rewardDisplaytime": 10
+        "rewardDisplaytime": 5
       }
     ]
   }
