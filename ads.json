@@ -8,56 +8,19 @@
 
     "data": [
       {
-        "title": "Open1",
-        "imageurl": "https://cdn.storageimagedisplay.com/cti/ae/09/15/ae091566169ead24f2b4f862acae14a2/1708270725.jpg",
-        "link": "https://google.com",
+        "title": "Open",
+        "imageurl": "https://raw.githubusercontent.com/jfresh194/indigosl/refs/heads/main/10422700.jpg",
+        "link": "https://ziegames.com",
         "colorleft": "#456743",
         "colorright": "#fff743",
-        "buttonTitle": "Download",
-        "buttonBgColor": "#456743",
-        "buttonTitleColor": "#fff743",
-        "countryToShow": "EN",
-        "rewardDisplaytime": 5
-      },
-
-      {
-        "title": "Open2",
-        "imageurl": "https://cdn.storageimagedisplay.com/cti/bd/f1/03/bdf10332bf86a6103b47ec75eceebd73/1708270698.jpg",
-        "link": "https://google.com",
-        "colorleft": "#456743",
-        "colorright": "#444743",
-        "buttonTitle": "Download",
-        "buttonBgColor": "#456743",
-        "buttonTitleColor": "#fff743",
-        "countryToShow": "EN",
-        "rewardDisplaytime": 5
-      },
-
-      {
-        "title": "Ads3",
-        "imageurl": "https://cdn.storageimagedisplay.com/cti/1d/10/58/1d105800878586a535bef4c322cc703e/1707923306.png",
-        "link": "https://google.com",
-        "colorleft": "#456743",
-        "colorright": "#555743",
-        "buttonTitle": "Download",
-        "buttonBgColor": "#456743",
-        "buttonTitleColor": "#fff743",
-        "countryToShow": "EN",
-        "rewardDisplaytime": 5
-      },
-
-      {
-        "title": "Ads3",
-        "imageurl": "https://cdn.storageimagedisplay.com/cti/1d/10/58/1d105800878586a535bef4c322cc703e/1707923306.png",
-        "link": "https://google.com",
-        "colorleft": "#456743",
-        "colorright": "#000743",
-        "buttonTitle": "Download",
+        "buttonTitle": "Open",
         "buttonBgColor": "#456743",
         "buttonTitleColor": "#fff743",
         "countryToShow": "EN",
         "rewardDisplaytime": 5
       }
+
+      
     ]
   }
 
