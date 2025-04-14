@@ -14,8 +14,8 @@
         "colorleft": "#000000",
         "colorright": "#000000",
         "buttonTitle": "Open",
-        "buttonBgColor": "#456743",
-        "buttonTitleColor": "#fff743",
+        "buttonBgColor": "#ffffff",
+        "buttonTitleColor": "#000fff",
         "countryToShow": "EN",
         "rewardDisplaytime": 5
       }
