@@ -1,6 +1,6 @@
 {
   "power": {
-    "banner": true,
+    "banner": false,
     "interstitial": true,
     "rewarded": true
   }
