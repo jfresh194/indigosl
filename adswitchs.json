@@ -1,7 +1,7 @@
 {
   "power": {
-    "banner": true,
-    "interstitial": true,
-    "rewarded": true
+    "banner": false,
+    "interstitial": false,
+    "rewarded": false
   }
 }
