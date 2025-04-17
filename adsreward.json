@@ -9,6 +9,7 @@
     "data": [
       {
         "title": "Open",
+        "type": "video",
         "imageurl": "https://raw.githubusercontent.com/jfresh194/indigosl/refs/heads/main/10422700.jpg",
         "link": "https://ziegames.com",
         "colorleft": "#000000",
@@ -17,7 +18,8 @@
         "buttonBgColor": "#ffffff",
         "buttonTitleColor": "#000fff",
         "countryToShow": "EN",
-        "rewardDisplaytime": 5
+        "rewardDisplaytime": 5,
+        "launchMode" : "externalApplication"
       }
       
     ]
