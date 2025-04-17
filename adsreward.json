@@ -20,6 +20,21 @@
         "countryToShow": "EN",
         "rewardDisplaytime": 5,
         "launchMode" : "externalApplication"
+      },
+
+        {
+        "title": "Open",
+        "isImage": false,
+        "imageurl": "https://raw.githubusercontent.com/jfresh194/indigosl/refs/heads/main/tiktik.mp4",
+        "link": "https://ziegames.com",
+        "colorleft": "#000000",
+        "colorright": "#000000",
+        "buttonTitle": "Go To",
+        "buttonBgColor": "#ffffff",
+        "buttonTitleColor": "#000fff",
+        "countryToShow": "EN",
+        "rewardDisplaytime": 5,
+        "launchMode" : "externalApplication"
       }
       
     ]
