@@ -9,6 +9,7 @@
       "link": "https://ziegames.com",
       "width": 810,
       "height": 150,
+      "launchMode" : "externalApplication",
       "position": "Open"
     },
     {
@@ -17,6 +18,7 @@
       "link": "https://ziegames.com",
       "width": 810,
       "height": 150,
+      "launchMode" : "externalApplication",
       "position": "Open"
     }
   ],
@@ -29,6 +31,7 @@
       "link": "https://ziegames.com",
       "width": 320,
       "height": 67,
+      "launchMode" : "externalApplication",
       "position": "Open"
     },
     {
@@ -37,6 +40,7 @@
       "link": "https://ziegames.com",
       "width": 320,
       "height": 67,
+      "launchMode" : "externalApplication",
       "position": "Open"
     }
   ]
