@@ -1,0 +1,19 @@
+{
+  "PowerSwitch": {
+    "Jam Hero": {
+      "power": {
+        "banner": false,
+        "interstitial": false,
+        "rewarded": false
+      }
+    },
+
+    "Jam Hero 2": {
+      "power": {
+        "banner": false,
+        "interstitial": false,
+        "rewarded": false
+      }
+    }
+  }
+}
