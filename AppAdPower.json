@@ -1,18 +1,20 @@
 {
   "PowerSwitch": {
     "Jam Hero": {
-      "power": {
+      "settings": {
         "banner": false,
         "interstitial": false,
-        "rewarded": false
+        "rewarded": false,
+        "caping": 2
       }
     },
 
     "Jam Hero 2": {
-      "power": {
+      "settings": {
         "banner": false,
         "interstitial": false,
-        "rewarded": false
+        "rewarded": false,
+        "caping": 2
       }
     }
   }
