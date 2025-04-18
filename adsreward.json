@@ -34,7 +34,7 @@
         "buttonTitleColor": "#000fff",
         "countryToShow": "EN",
         "rewardDisplaytime": 5,
-        "launchMode" : "externalApplication"
+        "launchMode" : "inAppBrowserView"
       }
       
     ]
