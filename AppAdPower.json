@@ -2,9 +2,11 @@
   "PowerSwitch": {
     "Jam Hero": {
       "settings": {
-        "banner": false,
-        "interstitial": false,
-        "rewarded": false,
+        "banner": true,
+        "interstitial": true,
+        "interstitialInApp": false,
+        "rewarded": true,
+        "rewardedInApp": true,
         "caping": 2
       }
     },
@@ -13,7 +15,9 @@
       "settings": {
         "banner": false,
         "interstitial": false,
+        "interstitialInApp": false,
         "rewarded": false,
+        "rewardedInApp": false,
         "caping": 2
       }
     }
