@@ -2,7 +2,7 @@
   "PowerSwitch": {
     "Jam Hero": {
       "settings": {
-        "cz_int" : 3,
+        "cz_int" : 55,
         "banner": true,
         "interstitial": true,
         "skipinterstitial": false,
