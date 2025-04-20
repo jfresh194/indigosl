@@ -24,6 +24,28 @@
   ],
 
 
+  "bannersMedium": [
+    {
+      "title": "Big Banner 1",
+      "imageurl": "https://raw.githubusercontent.com/jfresh194/indigosl/refs/heads/main/Media37441__en320x67.gif",
+      "link": "https://ziegames.com",
+      "width": 320,
+      "height": 67,
+      "launchMode" : "externalApplication",
+      "position": "Open"
+    },
+    {
+      "title": "Big Banner 2",
+      "imageurl": "https://raw.githubusercontent.com/jfresh194/indigosl/refs/heads/main/Media37441__en320x67.gif",
+      "link": "https://ziegames.com",
+      "width": 320,
+      "height": 67,
+      "launchMode" : "externalApplication",
+      "position": "Open"
+    }
+  ],
+
+
   "bannersSmall": [
     {
       "title": "Big Banner 1",
@@ -43,5 +65,13 @@
       "launchMode" : "externalApplication",
       "position": "Open"
     }
+
   ]
+
+
+
+
+
+
+
 }
