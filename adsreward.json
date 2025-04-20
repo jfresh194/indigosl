@@ -18,7 +18,7 @@
         "buttonBgColor": "#ffffff",
         "buttonTitleColor": "#000fff",
         "countryToShow": "EN",
-        "rewardDisplaytime": 5,
+        "rewardDisplaytime": 15,
         "buttonPosition": "topLeft",
         "launchMode" : "externalApplication"
       },
@@ -34,7 +34,7 @@
         "buttonBgColor": "#ffffff",
         "buttonTitleColor": "#000fff",
         "countryToShow": "EN",
-        "rewardDisplaytime": 5,
+        "rewardDisplaytime": 15,
           "buttonPosition": "topLeft",
         "launchMode" : "inAppBrowserView"
       }
